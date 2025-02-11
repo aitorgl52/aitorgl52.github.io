@@ -1,0 +1,48 @@
+/* Portfolio.css */
+
+.container {
+    background-color: #1a202c; /* bg-gray-900 */
+    color: white;
+    min-height: 100vh;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 80px 0;
+  }
+  
+  .hero h1 {
+    font-size: 3rem; /* text-5xl */
+    font-weight: bold;
+  }
+  
+  .hero p {
+    font-size: 1.125rem; /* text-lg */
+    color: #cbd5e0; /* text-gray-400 */
+    margin-top: 16px;
+  }
+  
+  .section-title {
+    font-size: 1.875rem; /* text-3xl */
+    font-weight: 600;
+    border-bottom: 2px solid #4a5568; /* border-gray-600 */
+    padding-bottom: 8px;
+  }
+  
+  .section-content {
+    color: #e2e8f0; /* text-gray-300 */
+    margin-top: 16px;
+  }
+  
+  .section {
+    padding: 40px 20px;
+  }
+  
+  .contact p {
+    margin-top: 16px;
+  }
+  
+  .contact a {
+    color: #3182ce; /* text-blue-400 */
+  }
+  
