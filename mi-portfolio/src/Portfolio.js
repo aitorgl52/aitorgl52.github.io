@@ -17,6 +17,14 @@ const Portfolio = () => {
           Me especializo en desarrollo web con Angular y Spring Boot. Me apasiona crear aplicaciones eficientes y escalables.
         </p>
       </section>
+      <section className="section">
+        <h2 className="section-title">Proyecto Spring</h2>
+        <p className="section-content">
+          Este pequeño proyecto es una api creada con spring que se encarga del inicio de sesion en una aplicacion utilizando ademas autentificacion por rol.
+        </p>
+        br
+        <p><a href="https://github.com/aitorgl52/spring-api-registro-usuarios">Api inicio de sesion</a></p>
+      </section>
 
       {/* Contact */}
       <section className="section contact">
